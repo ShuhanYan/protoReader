@@ -13,5 +13,6 @@
     <orderEntry type="library" name="protobuf-java-3.0.0" level="project" />
     <orderEntry type="library" name="protobuf-java-util-3.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="WebScaleML-algorithms-1.0.0-SNAPSHOT-jar-with-dependencies" level="project" />
   </component>
 </module>

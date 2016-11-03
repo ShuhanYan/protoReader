@@ -26,7 +26,7 @@ public class protoReader {
                 if(param.getKey().isRepeated()){
                     List<Caffe.V1LayerParameter> paramLists = (List<Caffe.V1LayerParameter>)param.getValue();
                     for(Caffe.V1LayerParameter l : paramLists){
-                        l.getParamList();
+                        System.out.println(l.getType());
                     }
                 }
             }
